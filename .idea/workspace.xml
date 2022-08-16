@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04c3ee0f-9878-43f5-92d8-2a3c10332b20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IndianFlag.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ashoka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/MyFlag/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/MyFlag/MyFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/MyFlag/MyFrame.java" afterDir="false" />
-    </list>
+    <list default="true" id="04c3ee0f-9878-43f5-92d8-2a3c10332b20" name="Changes" comment="first flag" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +32,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/Sarthak/IdeaProjects/IndianFlag/src"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module",
+      "directory"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -60,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660610446951</updated>
     </task>
+    <task id="LOCAL-00001" summary="first flag">
+      <created>1660612781805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660612781805</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first flag" />
+    <option name="LAST_COMMIT_MESSAGE" value="first flag" />
   </component>
 </project>
